@@ -1,0 +1,13 @@
+#访问端口号
+server:
+  port: 8888
+  tomcat:
+    uri-encoding: utf-8
+#应用名称
+spring:
+  application:
+    name: DuqcX_common
+
+logging:
+  level:
+    cn.jay.repository: trace
