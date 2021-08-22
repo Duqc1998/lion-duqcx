@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package com.lion.duqcx.Lambda;
 
 import java.util.List;
 import java.util.function.Function;

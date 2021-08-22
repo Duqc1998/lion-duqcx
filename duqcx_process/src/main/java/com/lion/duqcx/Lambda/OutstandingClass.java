@@ -1,4 +1,4 @@
-package org.example.Lambda;
+package com.lion.duqcx.Lambda;
 
 import lombok.Data;
 

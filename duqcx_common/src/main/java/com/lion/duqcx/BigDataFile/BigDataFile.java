@@ -1,4 +1,4 @@
-package org.example.BigDataFile;
+package com.lion.duqcx.BigDataFile;
 
 import java.io.File;
 import java.util.concurrent.BlockingQueue;
